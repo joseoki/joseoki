@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm José!
 
-<!--
-**joseoki/joseoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Data developer focused on building impactful software and projects. 
+My main interests are in Python, Spark, SQL, Databricks, Unity Catalog, Data, Big Data, Airflow, Github Actions, Azure.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Languages: Python, Pyspark
+- Tools: Git, Databricks, GitHub Actions, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseoki&show_icons=true&theme=github_dark)
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/josevmunhoz/)
+- Email: josevmunhoz@gmail.com
+
+---
+
+**Let's collaborate and build something amazing together!**
